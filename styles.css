@@ -1,0 +1,11 @@
+p{
+    border: 30px solid pink;
+    background-color: magenta;
+    color: aqua;
+}
+.red-text{
+    color: red;
+}
+h1.red-text {
+    color: #bb0000;
+}
